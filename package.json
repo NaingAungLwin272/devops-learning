@@ -1,0 +1,21 @@
+{
+  "name": "devops-learning",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/NaingAungLwin272/devops-learning#readme",
+  "bugs": {
+    "url": "https://github.com/NaingAungLwin272/devops-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaingAungLwin272/devops-learning.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "node test.js"
+  }
+}
